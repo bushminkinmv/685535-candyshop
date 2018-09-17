@@ -1,7 +1,7 @@
 # Личный проект «Кэндишоп» [![Build status][travis-image]][travis-url]
 
 * Студент: [Максим Бушминкин](https://up.htmlacademy.ru/javascript/15/user/685535).
-* Наставник: `Неизвестно`.
+* Наставник: `без наставника`.
 
 ---
 
